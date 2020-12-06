@@ -1,0 +1,56 @@
+2020-12-06 20:12:735 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 20:12:381 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 20:12:412 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 20:12:85 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 20:12:435 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (a8d92e5710017e790960d28d1328a8d3)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 20:12:463 INFO  LoginPage :45 - Getting text from : [[ChromeDriver: chrome on WINDOWS (a8d92e5710017e790960d28d1328a8d3)] -> xpath: //div[@class='page-title']//h1]
+2020-12-06 20:12:737 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 20:12:101 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (3558cf4e2bdf5ac063d5a8a6662c9f8b)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 20:12:133 INFO  LoginPage :45 - Getting text from : [[ChromeDriver: chrome on WINDOWS (3558cf4e2bdf5ac063d5a8a6662c9f8b)] -> xpath: //div[@class='page-title']//h1]
+2020-12-06 21:12:46 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 21:12:991 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (f3ab7c8f2582f9b9387fda82be1ec52b)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 21:12:530 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (f3ab7c8f2582f9b9387fda82be1ec52b)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 21:12:961 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 21:12:963 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (50ac627b2c9af32193d52d5a1d714a82)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 21:12:494 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (50ac627b2c9af32193d52d5a1d714a82)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 21:12:833 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 21:12:841 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (659e8a877f727f8b69eaf37fce74a7e0)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 21:12:10 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (659e8a877f727f8b69eaf37fce74a7e0)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 21:12:481 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 21:12:408 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (7bc988e7e593b4407edbaf5073c885a6)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 21:12:886 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (7bc988e7e593b4407edbaf5073c885a6)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 21:12:307 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 21:12:205 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (309dd9202d8c9f721f17dcb648c2299c)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 21:12:672 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (309dd9202d8c9f721f17dcb648c2299c)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 21:12:788 INFO  LoginPage :29 - Entering email address : alphatest157@gmail.com to email field : [[ChromeDriver: chrome on WINDOWS (309dd9202d8c9f721f17dcb648c2299c)] -> id: Email]
+2020-12-06 21:12:888 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 21:12:83 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (1270297dfd59242c3c48d685f36f0b73)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 21:12:567 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (1270297dfd59242c3c48d685f36f0b73)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 21:12:678 INFO  LoginPage :29 - Entering email address : alphatest978@gmail.com to email field : [[ChromeDriver: chrome on WINDOWS (1270297dfd59242c3c48d685f36f0b73)] -> id: Email]
+2020-12-06 21:12:688 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 21:12:31 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (325acc652072c1b4b21e2816b4e73d83)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 21:12:578 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (325acc652072c1b4b21e2816b4e73d83)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 21:12:685 INFO  LoginPage :29 - Entering email address : alphatest60@gmail.com to email field : [[ChromeDriver: chrome on WINDOWS (325acc652072c1b4b21e2816b4e73d83)] -> id: Email]
+2020-12-06 21:12:767 INFO  LoginPage :36 - Entering password : 123456 to password field : [[ChromeDriver: chrome on WINDOWS (325acc652072c1b4b21e2816b4e73d83)] -> css selector: #Password]
+2020-12-06 21:12:741 INFO  LoginPage :42 - Clicking on login button : [[ChromeDriver: chrome on WINDOWS (325acc652072c1b4b21e2816b4e73d83)] -> xpath: //input[@class='button-1 login-button']]
+2020-12-06 21:12:760 INFO  LoginPage :47 - Getting text from : [[ChromeDriver: chrome on WINDOWS (325acc652072c1b4b21e2816b4e73d83)] -> xpath: //div[@class='page-title']//h1]
+2020-12-06 21:12:269 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 21:12:351 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (bb7abe7ddc2aff048b6c8370e2bb8663)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 21:12:897 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (bb7abe7ddc2aff048b6c8370e2bb8663)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 21:12:26 INFO  LoginPage :29 - Entering email address : alphatest455@gmail.com to email field : [[ChromeDriver: chrome on WINDOWS (bb7abe7ddc2aff048b6c8370e2bb8663)] -> id: Email]
+2020-12-06 21:12:112 INFO  LoginPage :36 - Entering password : 123456 to password field : [[ChromeDriver: chrome on WINDOWS (bb7abe7ddc2aff048b6c8370e2bb8663)] -> css selector: #Password]
+2020-12-06 21:12:146 INFO  LoginPage :42 - Clicking on login button : [[ChromeDriver: chrome on WINDOWS (bb7abe7ddc2aff048b6c8370e2bb8663)] -> xpath: //input[@class='button-1 login-button']]
+2020-12-06 21:12:168 INFO  LoginPage :47 - Getting text from : [[ChromeDriver: chrome on WINDOWS (bb7abe7ddc2aff048b6c8370e2bb8663)] -> xpath: //div[@class='page-title']//h1]
+2020-12-06 21:12:974 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 21:12:816 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (0157d5f1e9e20fc51676f802156ac94b)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 21:12:363 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (0157d5f1e9e20fc51676f802156ac94b)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 21:12:467 INFO  LoginPage :29 - Entering email address : alphatest133@gmail.com to email field : [[ChromeDriver: chrome on WINDOWS (0157d5f1e9e20fc51676f802156ac94b)] -> id: Email]
+2020-12-06 21:12:550 INFO  LoginPage :36 - Entering password : 123456 to password field : [[ChromeDriver: chrome on WINDOWS (0157d5f1e9e20fc51676f802156ac94b)] -> css selector: #Password]
+2020-12-06 21:12:951 INFO  LoginPage :42 - Clicking on login button : [[ChromeDriver: chrome on WINDOWS (0157d5f1e9e20fc51676f802156ac94b)] -> xpath: //input[@class='button-1 login-button']]
+2020-12-06 21:12:968 INFO  LoginPage :47 - Getting text from : [[ChromeDriver: chrome on WINDOWS (0157d5f1e9e20fc51676f802156ac94b)] -> xpath: //div[@class='page-title']//h1]
+2020-12-06 21:12:65 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-06 21:12:74 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (110cd06e4a39c3f771db1b7b7c0a9d5f)] -> xpath: //a[contains(text(),'Log in')]]
+2020-12-06 21:12:689 INFO  LoginPage :32 - Entering email address : betatest123@me.com.com to email field : [[ChromeDriver: chrome on WINDOWS (110cd06e4a39c3f771db1b7b7c0a9d5f)] -> id: Email]
+2020-12-06 21:12:779 INFO  LoginPage :39 - Entering password : 123456 to password field : [[ChromeDriver: chrome on WINDOWS (110cd06e4a39c3f771db1b7b7c0a9d5f)] -> css selector: #Password]
+2020-12-06 21:12:236 INFO  LoginPage :45 - Clicking on login button : [[ChromeDriver: chrome on WINDOWS (110cd06e4a39c3f771db1b7b7c0a9d5f)] -> xpath: //input[@class='button-1 login-button']]
+2020-12-06 21:12:257 INFO  LoginPage :56 - Getting error text from [[ChromeDriver: chrome on WINDOWS (110cd06e4a39c3f771db1b7b7c0a9d5f)] -> xpath: //div[@class = 'message-error validation-summary-errors']]
